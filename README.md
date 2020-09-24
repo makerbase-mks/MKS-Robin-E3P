@@ -11,7 +11,7 @@
 - Support marlin2.0
 
 ## How to buy
-- MKS Robin E3P on Aliexpress
+- MKS Robin E3P on Aliexpress [MKS Robin E3P+MKS TS35-E3](https://www.aliexpress.com/item/1005001493427134.html)
 
 ## Note
 - Thank you for using MKS products. If you have any questions during use, please contact us in time and we will work with you to solve it.
