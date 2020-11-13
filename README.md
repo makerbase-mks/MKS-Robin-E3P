@@ -9,7 +9,10 @@
 
 ## Firmware description
 - Support marlin2.0
-- MKS path marlin2.0 firmware (https://github.com/makerbase-mks/Mks-Robin-Nano-Marlin2.0-Firmware)
+- MKS path marlin2.0 firmware (https://github.com/makerbase-mks/MKS-Robin-E3P/tree/master/Source-code)
+
+## Ender3 configuration
+- [Get different configuration files of Ender3](https://github.com/makerbase-mks/MKS-Robin-E3P/tree/master/Source-code/config)
 
 ## How to buy
 - MKS Robin E3P on Aliexpress [MKS Robin E3P+MKS TS35-E3](https://www.aliexpress.com/item/1005001493427134.html)
