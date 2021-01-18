@@ -241,16 +241,16 @@ static void disp_key_value() {
     #if HAS_BED_PROBE
       case x_offset:
         #if HAS_PROBE_XY_OFFSET
-        sprintf_P(public_buf_m, PSTR("%.1f"), probe.offset.x);
+        sprintf_P(public_buf_m, PSTR("%.3f"), probe.offset.x);
         #endif
         break; 
       case y_offset:
         #if HAS_PROBE_XY_OFFSET
-        sprintf_P(public_buf_m, PSTR("%.1f"), probe.offset.y);
+        sprintf_P(public_buf_m, PSTR("%.3f"), probe.offset.y);
         #endif
         break;
       case z_offset:
-        sprintf_P(public_buf_m, PSTR("%.1f"), probe.offset.z);
+        sprintf_P(public_buf_m, PSTR("%.3f"), probe.offset.z);
         break;
     #endif
     case load_length:

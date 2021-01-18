@@ -634,7 +634,7 @@
 #define USE_ZMIN_PLUG
 //#define USE_XMAX_PLUG
 //#define USE_YMAX_PLUG
-#define USE_ZMAX_PLUG
+//#define USE_ZMAX_PLUG
 
 // Enable pullup for all endstops to prevent a floating state
 #define ENDSTOPPULLUPS
@@ -871,7 +871,7 @@
  *      - normally-open switches to 5V and D32.
  *
  */
-#define Z_MIN_PROBE_PIN PC4 // Pin 32 is the RAMPS default
+//#define Z_MIN_PROBE_PIN PC4 // Pin 32 is the RAMPS default
 
 /**
  * Probe Type
@@ -909,7 +909,7 @@
 /**
  * The BLTouch probe uses a Hall effect sensor and emulates a servo.
  */
- #define BLTOUCH
+ //#define BLTOUCH
 
 /**
  * Pressure sensor with a BLTouch-like interface
@@ -1244,7 +1244,7 @@
  */
 //#define AUTO_BED_LEVELING_3POINT
 //#define AUTO_BED_LEVELING_LINEAR
- #define AUTO_BED_LEVELING_BILINEAR
+ //#define AUTO_BED_LEVELING_BILINEAR
 //#define AUTO_BED_LEVELING_UBL
 //#define MESH_BED_LEVELING
 
